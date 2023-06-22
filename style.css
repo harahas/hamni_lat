@@ -1,0 +1,21 @@
+.hero{
+    height: 100vh;
+    background-color: #ffffffcc;
+}
+/* .hero{
+    height: 100vh;
+    background-image: url("img/bg.png");
+    background-size: cover;
+    background-position: center;
+} */
+.container .judul{
+    color: #4b4b4b;
+}
+#navbarSupportedContent{
+    color: white;
+}
+@media screen and (max-width:768px){
+.container-fluid #link{
+    display:none;
+}
+}
